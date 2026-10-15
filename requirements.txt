@@ -1,0 +1,8 @@
+pandas
+langchain
+wikipedia
+langchain-community
+langchain-openai
+python-dotenv
+pydantic
+ddgs

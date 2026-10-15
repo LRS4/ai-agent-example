@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2026-03-13 14:11:54
+
+Language models, often built on architectures like GPT (Generative Pre-trained Transformer), are artificial intelligence systems designed to understand and generate human-like text. They find applications in natural language processing tasks such as machine translation, chatbot communication, content generation, and more. Developed using deep learning and trained on extensive datasets, these models improve as they are fine-tuned for specific tasks, making them versatile tools in various domains.
+
